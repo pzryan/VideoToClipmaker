@@ -1,0 +1,19 @@
+{
+  "name": "videotoclipmaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^7.2.0",
+    "ffmpeg": "0.0.4",
+    "get-pixels": "^3.3.2",
+    "minizlib": "^2.1.2",
+    "tar-stream": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
